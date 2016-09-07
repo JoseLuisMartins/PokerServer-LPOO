@@ -1,0 +1,1 @@
+java -classpath .\bin;.\lib\lipermi-0.4.jar Gui.InterfaceServer
